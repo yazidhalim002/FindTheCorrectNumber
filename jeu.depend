@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638873212 source:c:\users\kimetsunoyaiba\onedrive\bureau\programacion c\jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
